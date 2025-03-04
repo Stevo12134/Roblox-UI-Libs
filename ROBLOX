@@ -1,0 +1,16 @@
+Get Key Here: https://ads.luarmor.net/get_key?for=LunorLootLinksAD-ttlCqogXRQgQ
+
+getgenv().GradientColor = {
+    startingColor = "ffffff",
+    endingColor = "ffffff"
+}
+script_key = 'PASTE_KEY_HERE';
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Just3itx/Lunor-Loadstrings/refs/heads/main/Loader"))()
+Get Key Here: https://ads.luarmor.net/get_key?for=LunorLootLinksAD-ttlCqogXRQgQ
+
+getgenv().GradientColor = {
+    startingColor = "ffffff",
+    endingColor = "ffffff"
+}
+script_key = 'PASTE_KEY_HERE';
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Just3itx/Lunor-Loadstrings/refs/heads/main/Loader"))()loadstring(game:HttpGet("https://raw.githubusercontent.com/kiciahook/kiciahook/refs/heads/main/loader.lua"))
